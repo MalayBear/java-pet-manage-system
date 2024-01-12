@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/SystemMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/data/ManagerTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/data/PetSuppliesTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/data/PetsTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/data/SuppliesTypeTable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/page/ManagerPages.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/page/PetSuppliesPages.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/page/PetsPages.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/page/UserPages.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/pojo/Manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/pojo/Pet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/pojo/PetSupply.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/pojo/SuppliesType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/service/ManagerService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/service/PetSupplyService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/service/PetsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/service/SuppliesTypeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/utils/EmailValidator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/utils/Input.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/salvia/utils/Print.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/test.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
